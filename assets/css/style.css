@@ -169,14 +169,20 @@
     margin-bottom: 10px;
 }
 
+.carousel-item a{
+    color: #fff;
+    text-decoration: none;
+}
+
+/* 
 .form-control {
     height: 50px;
     padding: 0 20px !important;
     font-size: 15px !important;
     border: 2px solid #ccc !important;
     border-radius: 0 !important;
-}
-
+} */
+/* 
 .btn {
     padding: 15px !important;
     font-size: 15px !important;
@@ -184,11 +190,11 @@
     border-radius: 0 !important;
     text-transform: uppercase !important;
     color: #fff !important;
-}
+} */
 
-.btn-primary {
+/* .btn-primary {
     background-color: #1C1EE6 !important;
-}
+} */
 
 .footer {
     padding: 30px 50px;
@@ -229,7 +235,7 @@
     right: 0;
     top: 0;
     bottom: 0;
-    background: linear-gradient(160deg, transparent 40%, #bb5a7a)
+    background: linear-gradient(160deg, transparent 40%, #2a5ae0d0)
 }
 
 .carousel-paragraph {
